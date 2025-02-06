@@ -1,3 +1,5 @@
+## USAID Data Visualization
+
 This project is a web application that provides an interactive visualization of USAID funding allocations and distribution. It helps users understand the geographic and thematic focus areas of USAID's financial contributions to various sectors globally.
 
 Features
@@ -24,15 +26,22 @@ Technologies Used
     
 *   CSS
     
-*   JavaScript
-    
-*   Tableau (data visualizatio)
+*   Tableau (data visualization)
+
+Screenshots
+-----------------
+
+  ![image](https://github.com/user-attachments/assets/9f8dc475-bb24-4157-9b53-04afaaca08fd)
+
+ ![image](https://github.com/user-attachments/assets/3a73d8e8-fd18-41dd-b683-d3554ff4a0ec)
+
+
     
 
 Installation
 ------------
 
-1.  bashCopyEditgit clone https://github.com/amudzingwa/usaid-funding.git
+1.  git clone https://github.com/amudzingwa/usaid-funding.git
     
 2.  Open the index.html file in your preferred web browser to view the application locally.
     
